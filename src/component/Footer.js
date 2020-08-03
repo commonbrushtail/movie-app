@@ -7,7 +7,7 @@ export default function Footer(props) {
         <form action =""  onChange={props.handleChange} onSubmit={props.handleSubmit}className ="searchBar">
             <div style={{'display':'flex'}}>
                 <input className ="inputBox"type="text" name="search" />
-                <button className ="submit" type="submit"><img alt="serachLogo" src="/search.png"/></button>
+                <button className ="submit" type="submit"><img alt="serachLogo" src="search.png"/></button>
             </div>
                 <div style={{'display':'flex','flexDirection':'column','alignItems':'center','marginTop':'10px'}}>
             
