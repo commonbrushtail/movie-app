@@ -24,6 +24,7 @@ textarea:focus, input:focus, img:active{
     background-color: white;
     padding: 10px 20px;
     border-radius: 5px;
+    width: 300px;
     box-shadow:
   0 2.8px 2.2px rgba(0, 0, 0, 0.034),
   0 6.7px 5.3px rgba(0, 0, 0, 0.048),
