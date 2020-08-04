@@ -11,7 +11,7 @@ export default function Footer(props) {
             </div>
                 <div style={{'display':'flex','flexDirection':'column','alignItems':'center','marginTop':'10px'}}>
             
-                    <img alt="logo" style ={{'width':'30px'}} src="Tmdb-312x276-logo.png" />
+                    <img alt="logo" style ={{'width':'35px'}} src="Tmdb-312x276-logo.png" />
                     <p style={{'fontSize':'7px'}}>Powered by</p>
                 </div>
                 
