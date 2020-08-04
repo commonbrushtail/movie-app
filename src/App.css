@@ -40,14 +40,14 @@ textarea:focus, input:focus, img:active{
 }
 
 .submit{
-    
+    margin-left: 0;
     border: none;
     background-color:rgb(67,133,245);
     height: 30px;
     width: 30px;
 }
 .submit img{
-    width: 100%;
+    width: 80%;
     height: 100%;
     object-fit: contain;
     filter: invert(100);
