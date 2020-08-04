@@ -20,8 +20,6 @@ textarea:focus, input:focus, img:active{
     flex-direction: column;
     align-items: center;
     position: fixed;
-    width: 70vw;
-    max-width: 500px;
     bottom: 7vh;
     background-color: white;
     padding: 10px 20px;
@@ -50,7 +48,7 @@ textarea:focus, input:focus, img:active{
     width: 30px;
 }
 .submit img{
-    width: 80%;
+    width: 85%;
     height: 100%;
     object-fit: contain;
     filter: invert(100);
